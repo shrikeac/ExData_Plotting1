@@ -19,10 +19,10 @@ R files:
 
 PNG files:
 <ol>
-<li>[plot1.png](plot1.png) - corresponds to plot1.R
-<li>[plot2.png](plot2.png) - corresponds to plot2.R
-<li>[plot3.png](plot3.png) - corresponds to plot3.R
-<li>[plot4.png](plot4.png) - corresponds to plot4.R
+<li>plot1.png - corresponds to plot1.R
+<li>plot2.png - corresponds to plot2.R
+<li>plot3.png - corresponds to plot3.R
+<li>plot4.png - corresponds to plot4.R
 </ol>
 
 
